@@ -64,6 +64,14 @@ plt.title("Customer Segments")
 ## Output:
 <img width="784" height="361" alt="image" src="https://github.com/user-attachments/assets/4bcc71ea-80f8-4b8e-90ba-8abb81fb26cf" />
 
+Checking for Null Data:
+<img width="496" height="217" alt="image" src="https://github.com/user-attachments/assets/9c8ed2d7-699a-4da6-ae04-3b1ebe94608c" />
+Data Information:
+<img width="771" height="403" alt="image" src="https://github.com/user-attachments/assets/1f92e9d6-cbef-4868-8ae2-ef97461c2ebb" />
+Within Cluster Sum of Squares:
+<img width="669" height="222" alt="image" src="https://github.com/user-attachments/assets/152a3aa9-5e97-457d-9a0c-95228537cb20" />
+
+
 
 
 ## Result:
